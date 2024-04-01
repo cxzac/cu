@@ -50,7 +50,7 @@
     },
     "cuda": {
         "enabled": true,
-        "loader": cuda.so,
+        "loader": "./cuda.so",
         "nvml": true,
         "cn-lite/0": false,
         "cn/0": false
